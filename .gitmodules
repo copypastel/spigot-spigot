@@ -1,8 +1,8 @@
 [submodule "Spigot-Server"]
 	path = Spigot-Server
-	url = git@github.com:sconover/spigot-craftbukkit.git
+	url = git@github.com:copypastel/spigot-craftbukkit.git
 	branch = dev
 [submodule "Spigot-API"]
 	path = Spigot-API
-	url = git@github.com:sconover/spigot-bukkit.git
+	url = git@github.com:copypastel/spigot-bukkit.git
 	branch = dev
