@@ -1,0 +1,8 @@
+[submodule "Spigot-Server"]
+	path = Spigot-Server
+	url = git@copypastel.github.com:copypastel/spigot-craftbukkit.git
+	branch = patched-1.12.1
+[submodule "Spigot-API"]
+	path = Spigot-API
+	url = git@copypastel.github.com:copypastel/spigot-bukkit.git
+	branch = frombuild-1.12.1
